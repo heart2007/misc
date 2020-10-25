@@ -1,2 +1,0 @@
-# misc
-# Maintain miscellaneous code
